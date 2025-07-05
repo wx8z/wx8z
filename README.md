@@ -2,25 +2,23 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%">
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top" align="center">
-      <h1>Hi there, I'm WX8Z</h1>
-      <blockquote>
-        <i>Hey, I'm just an obscure guy crawling in the depths of GitHub.</i>
-      </blockquote>
-      <p>
-        <a href="https://discord.com/users/1089620867744534709">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-        </a>
-        <a href="https://t.me/torturedsk1d">
-          <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-        </a>
-      </p>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=wx8z&style=flat-square&color=8ec07c" alt="Profile views"/>
-      </p>
-      <pre>
+<div align="center">
+  <h1>Hi there, I'm wx8z</h1>
+  <blockquote>
+    <i>Hey, I'm just an obscure guy crawling in the depths of GitHub.</i>
+  </blockquote>
+  <p>
+    <a href="https://discord.com/users/1089620867744534709">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
+    <a href="https://t.me/torturedsk1d">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=wx8z&style=flat-square&color=8ec07c" alt="Profile views"/>
+  </p>
+  <pre>
                              ,---.-,                 
                             '   ,'  '.               
                            /   /      \              
@@ -37,10 +35,8 @@
    \   \ |    `---'  `--` |   :      / `---'         
     '---"                  \   \   .'                
                             `---`-'                  
-      </pre>
-    </td>
-  </tr>
-</table>
+  </pre>
+</div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
