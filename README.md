@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi there, I'm WX8Z</h1>
+  <h1>Hi there, I'm wx8z</h1>
   <blockquote>
     <i>Hey, I'm just an obscure guy crawling in the depths of GitHub.</i>
   </blockquote>
