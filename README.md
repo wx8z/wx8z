@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hi there, I'm wx8z</h1>
+  <h1>Hi there, I'm WX8Z</h1>
   <blockquote>
     <i>Hey, I'm just an obscure guy crawling in the depths of GitHub.</i>
   </blockquote>
@@ -57,5 +57,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wx8z/wx8z/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/wx8z/wx8z/main/dist/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </div>
