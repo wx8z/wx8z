@@ -5,7 +5,7 @@
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h1>Hi there, I'm wx8z</h1>
+      <h1>Hi there, I'm WX8Z</h1>
       <blockquote>
         <i>Hey, I'm just an obscure guy crawling in the depths of GitHub.</i>
       </blockquote>
@@ -21,11 +21,22 @@
         <img src="https://komarev.com/ghpvc/?username=wx8z&style=flat-square&color=8ec07c" alt="Profile views"/>
       </p>
       <pre>
- __      _______ __  _
- \ \    / /_   _]\ \/ /
-  \ \  / /  | |   \  /
-   \ \/ /   | |   /  \
-    \__/    |_|  /_/\_\
+                             ,---.-,                 
+                            '   ,'  '.               
+                           /   /      \              
+                          .   ;  ,/.  :              
+         .---.            '   |  | :  ;       ,----, 
+        /. ./| ,--,  ,--, '   |  ./   :     .'   .`| 
+     .-'-. ' | |'. \/ .`| |   :       ,  .'   .'  .' 
+    /___/ \: | '  \/  / ;  \   \     / ,---, '   ./  
+ .-'.. '   ' .  \  \.' /    ;   ,   '\ ;   | .'  /   
+/___/ \:     '   \  ;  ;   /   /      \`---' /  ;--, 
+.   \  ' .\     / \  \  \ .   ;  ,/.  :  /  /  / .`| 
+ \   \   ' \ |./__;   ;  \'   |  | :  ;./__;     .'  
+  \   \  |--" |   :/\  \ ;'   |  ./   :;   |  .'     
+   \   \ |    `---'  `--` |   :      / `---'         
+    '---"                  \   \   .'                
+                            `---`-'                  
       </pre>
     </td>
     <td width="45%" valign="top">
@@ -67,19 +78,6 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=wx8z&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
-  </a>
-</div>
-
----
-
-### My Featured Projects
-*Remember to change the `repo` parameters to your own repository names!*
-<div align="center">
-  <a href="https://github.com/wx8z/Project-X">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wx8z&repo=Project-X&theme=gruvbox&hide_border=true&icon_color=8ec07c" />
-  </a>
-  <a href="https://github.com/wx8z/Cyber-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wx8z&repo=Cyber-Toolkit&theme=gruvbox&hide_border=true&icon_color=8ec07c" />
   </a>
 </div>
 
