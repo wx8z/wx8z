@@ -4,7 +4,7 @@
 
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="100%" valign="top" align="center">
       <h1>Hi there, I'm WX8Z</h1>
       <blockquote>
         <i>Hey, I'm just an obscure guy crawling in the depths of GitHub.</i>
@@ -38,39 +38,6 @@
     '---"                  \   \   .'                
                             `---`-'                  
       </pre>
-    </td>
-    <td width="45%" valign="top">
-      <h2>Core Toolkit</h2>
-      <table align="center">
-        <tr>
-          <td align="center" width="80">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-            <br>Python
-          </td>
-          <td align="center" width="80">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" />
-            <br>Bash
-          </td>
-          <td align="center" width="80">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="36" height="36" alt="Luau/Lua" />
-            <br>Luau
-          </td>
-        </tr>
-        <tr>
-          <td align="center" width="80">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
-            <br>TensorFlow
-          </td>
-          <td align="center" width="80">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" />
-            <br>PyTorch
-          </td>
-          <td align="center" width="80">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
-            <br>Docker
-          </td>
-        </tr>
-      </table>
     </td>
   </tr>
 </table>
