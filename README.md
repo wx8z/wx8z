@@ -11,9 +11,6 @@
     <a href="https://discord.com/users/1089620867744534709">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
-    <a href="https://t.me/torturedsk1d">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=wx8z&style=flat-square&color=8ec07c" alt="Profile views"/>
