@@ -4,9 +4,7 @@
 
 <div align="center">
   <h1>Hi there, I'm wx8z</h1>
-  <blockquote>
-    <i>Hey, I'm just an obscure guy crawling in the depths of GitHub.</i>
-  </blockquote>
+ 
   <p>
     <a href="https://discord.com/users/1089620867744534709">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
